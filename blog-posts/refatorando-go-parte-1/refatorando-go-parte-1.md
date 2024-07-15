@@ -14,14 +14,3 @@ The thing above delimited by `---` is called a "front matter" and it allows us t
 
 You can also take advantage of [embedme](https://github.com/zakhenry/embedme) to extract your code from the markdown file and make sure that what you're displaying in the markdown is always up to date too e.g.
 
-```ts
-// code/demo-code.ts
-
-interface A {
-  hello: string;
-}
-```
-
-# Found a typo?
-
-If you've found a typo, a sentence that could be improved or anything else that should be updated on this blog post, you can access it through a git repository and make a pull request. Instead of posting a comment, please go directly to <REPO URL> and open a new pull request with your changes.
